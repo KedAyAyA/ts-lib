@@ -1,0 +1,12 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "./test/**/*"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./lib"
+    }
+}
